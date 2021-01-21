@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> vineet upadhyay <role> Administrator <twitter> NULL
 
 # THANKS
 
