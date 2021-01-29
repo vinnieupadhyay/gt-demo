@@ -7,3 +7,5 @@ A Sample project for practicing Git Command Line
 ## Deployment   
 Deployment can be any server to local environment system
 ## How to Contribute
+
+## Copyright Notice
